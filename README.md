@@ -1,2 +1,1 @@
-# templates-tricks
-collection of templates and tricks
+Tips tricks and templates 
